@@ -26,8 +26,20 @@ Privacy Policy: https://georgescugpccristian-jpg.github.io/smart-table-export-si
 
 ## Content status
 
-The approved design, styling, images, features, and pricing are preserved. Free (five exports total) and Pro ($4.99 lifetime, one-time payment) are marked **Coming soon**. The current extension has no export counter, paid feature gates, payment processing, or license activation. There are no purchase or installation buttons and no invented testimonials.
+Free includes five completed exports per browser installation, shared across CSV and XLSX, with no subscription or monthly reset. Pending or uncertain downloads reserve slots. Pro is a one-time lifetime license with unlimited exports, column customization, data cleanup, numeric Excel formatting, and saved preferences. Free users can view the saved-preference website list and delete saved preferences; creating, editing, and applying them require Pro.
 
-The Privacy Policy describes local table processing, local preferences, website identifiers, and separate GitHub Pages hosting logs. Keep it updated if licensing or other network features are introduced.
+The extension implements quota enforcement and Lemon Squeezy license activation, validation, and deactivation. Table processing stays local; table contents, page URLs, preferences, and quota data are not sent to Lemon Squeezy. The Privacy Policy explains licensing requests, local storage, downloads permission, delayed history cleanup, and separate website hosting.
 
-Before merchant onboarding, provide the real publisher/business identity and a support/privacy contact. None has been invented here. Finalize license/refund terms and tax treatment before activating sales.
+No production checkout or extension-store installation link is provided. The previously advertised planned Pro price has been removed because no production price is verified in the extension documentation. No price, checkout URL, support address, publisher identity, or legal terms have been invented.
+
+## Publication readiness
+
+Copy has been aligned with the extension implementation. A Git checkpoint does not imply deployment or publication. Before release:
+
+- Confirm the publisher/business identity and a real support/privacy contact.
+- Confirm the production price, currency, tax treatment, and sale/license/refund terms.
+- Supply and verify the production checkout and extension-store installation URLs.
+- Verify production product/live-mode configuration and license behavior with the provider.
+- Review the updated privacy disclosures and visually check desktop/mobile layout before publication.
+
+Styles, assets, navigation, and page structure are retained. The website remains static with no scripts, forms, analytics, or checkout integration.
